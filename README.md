@@ -1,5 +1,5 @@
 # 3DPrinters
-A collection of fundmental 3D Printer Research Papers
+A collection of fundmental 3D Printer Research Papers.
 
 This document is formulated to aid me/anyone else who is researching on 3D Printers from a computer science perspective.
 
