@@ -1,0 +1,8 @@
+This paper is fundamental for detecting malicious errors in 3D Printing.
+The paper introduces some fundamental terminologies that could be used for any 3D Printing research.
+
+Description of the work:
+1. The model to be printed is assumed to be infected with malicious G-codes.
+2. The KCAD defense mechanism identifies the malicious G-codes through a foreknowledge of printing model.
+
+The structural strength of the model printed using KCAD is tested against a model that does not use KCAD. KCAD is able to detect the errornous instructions.
