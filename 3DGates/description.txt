@@ -1,0 +1,8 @@
+This paper conducts an energy/power analysis of a typical Fused Filament Fabrication(FFF) 3D Printer. The main contributions of this work are:
+1. An accurate enough (3% error rate) instruction-level simulator that is able to quantify the power consumption of the a 3D Printing workload.
+2. Optimizations (in terms of orientation of the object) that reduces the power consumption in the 3D Printing process.
+The authors claim that on average they were able to reduce 25% of the energy consumption for 338 benchmark files.
+
+Overall, this paper sheds light on the energy consumed by the various components of the 3D Printer. The paper inherently assumes a linear power between individual components energy consumption and overall energy consumption. 
+
+Experimental evaluations are done to demonstrate that the approach has no significant overhead in terms of printing time, print quality, etc.  
