@@ -1,0 +1,7 @@
+This paper describes a 3D Printing framework that makes it possible to attach a 3D Printed object to an external object. The 'attachment protocol' between Object A and Object B is generalized into three categories:
+1. Print-over: Print one object over another.
+2. Print-to-affix: Prints a connector that matches the surface geometry of Object A and is snug-fit to Object B.
+3. Print-through: Leverages the structural holes in Object A to fit Object B onto it (by pausing the print).
+
+All these generalizations are made in consideration to viability, durability and usability of the print. Viability ensure safety to the 3D Printer such as no collision of the nozzle to the partial print. Durability ensures the quality of the product is preserved (such as no structural defects). Usability ensure correct weight-of-balance of the fusion of Objects A and B when being gripped or held.
+
